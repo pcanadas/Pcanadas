@@ -2,6 +2,13 @@
 
 ### Aquí podrás encontrar todo el código que he ido aprendiendo y proyectos en los que estoy trabajando.
 
+## Mis Repositorios:
+
+[Little Codes] (https://github.com/Pcanadas/little_codes.git) Este es mi repositorio para pequeños códigos de aprendizaje
+
+# Mis estadísticas en Github
+[![Hua's github stats](https://github-readme-stats.vercel.app/api?username=Pcanadas)](https://github.com/Pcanadas/github-readme-stats)
+
 <!--
 **Pcanadas/Pcanadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
