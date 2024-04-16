@@ -6,7 +6,7 @@ I am passionate about technology :computer:, reading :book: and ancient history 
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on open source #Python projects
 - 📫 How to reach me:
-    - [![Linkedin](https://www.linkedin.com/in/patricia-ca%C3%B1adas-50244a148/)]  
+    - [Linkedin](https://www.linkedin.com/in/patricia-ca%C3%B1adas-50244a148/)
   
 
 ### Aquí podrás encontrar todo el código que he ido aprendiendo y proyectos en los que estoy trabajando
