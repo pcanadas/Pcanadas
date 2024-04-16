@@ -1,4 +1,11 @@
-# Hola a todos! Bienvenidos a mi perfil de Github
+# Hi, I'm Patricia
+
+I am passionate about technology :computer:, reading :book: and ancient history
+
+- 🔭 I’m currently working on personal proyects
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on open source #Python projects
+  
 
 ### Aquí podrás encontrar todo el código que he ido aprendiendo y proyectos en los que estoy trabajando
 
