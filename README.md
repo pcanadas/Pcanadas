@@ -13,10 +13,11 @@ I am passionate about technology :computer:, reading :book: and ancient history 
 
 ### Mis Repositorios
 
+[VulpesCRM] (https://github.com/Pcanadas/VulpesCRM.git) Open Source CRM para gestión y seguimiento de las ofertas en el marco empresarial
 [Little Codes] (https://github.com/Pcanadas/little_codes.git) Este es mi repositorio para pequeños códigos de aprendizaje
 
 ### Mis estadísticas en Github
-[![Hua's github stats](https://github-readme-stats.vercel.app/api?username=Pcanadas&show_icons=true&theme=darcula)](https://github.com/Pcanadas/github-readme-stats)
+[![Patricia's github stats](https://github-readme-stats.vercel.app/api?username=Pcanadas&show_icons=true&theme=darcula)](https://github.com/Pcanadas/github-readme-stats)
 
 
 
