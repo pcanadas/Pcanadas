@@ -13,16 +13,16 @@ I am passionate about technology :computer:, reading :book: and ancient history 
 
 ### Mis Repositorios
 
-[VulpesCRM] (https://github.com/Pcanadas/VulpesCRM.git) Open Source CRM para gestión y seguimiento de las ofertas en el marco empresarial
-[Little Codes] (https://github.com/Pcanadas/little_codes.git) Este es mi repositorio para pequeños códigos de aprendizaje
+[VulpesCRM] (https://github.com/pcanadas/VulpesCRM.git) Open Source CRM para gestión y seguimiento de las ofertas en el marco empresarial
+[Little Codes] (https://github.com/pcanadas/little_codes.git) Este es mi repositorio para pequeños códigos de aprendizaje
 
 ### Mis estadísticas en Github
-[![Patricia's github stats](https://github-readme-stats.vercel.app/api?username=Pcanadas&show_icons=true&theme=darcula)](https://github.com/Pcanadas/github-readme-stats)
+[![Patricia's github stats](https://github-readme-stats.vercel.app/api?username=pcanadas&show_icons=true&theme=darcula)](https://github.com/pcanadas/github-readme-stats)
 
 
 
 <!--
-**Pcanadas/Pcanadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pcanadas/pcanadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
