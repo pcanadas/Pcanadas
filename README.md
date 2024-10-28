@@ -13,10 +13,10 @@ I am passionate about technology :computer:, reading :book: and ancient history 
 
 ### Mis Repositorios
 
-[VulpesCRM](https://github.com/pcanadas/VulpesCRM.git) Open Source CRM para gestión y seguimiento de las ofertas en el marco empresarial <br>
-[Productos](https://github.com/pcanadas/productos.git) Desktop app for product management
-[Tareas](https://github.com/pcanadas/tareas.git) Task Management App
-[Little Codes](https://github.com/pcanadas/little_codes.git) Este es mi repositorio para pequeños códigos de aprendizaje
+- [VulpesCRM](https://github.com/pcanadas/VulpesCRM.git) Open Source CRM para gestión y seguimiento de las ofertas en el marco empresarial <br>
+- [Productos](https://github.com/pcanadas/productos.git) Desktop app for product management <br>
+- [Tareas](https://github.com/pcanadas/tareas.git) Task Management App <br>
+- [Little Codes](https://github.com/pcanadas/little_codes.git) Este es mi repositorio para pequeños códigos de aprendizaje
 
 ### Mis estadísticas en Github
 [![Patricia's github stats](https://github-readme-stats.vercel.app/api?username=pcanadas&show_icons=true&theme=darcula)](https://github.com/pcanadas/github-readme-stats)
