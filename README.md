@@ -9,16 +9,17 @@ I am passionate about technology :computer:, reading :book: and ancient history 
     - [Linkedin](https://www.linkedin.com/in/patricia-canadas)
   
 
-### Aquí podrás encontrar todo el código que he ido aprendiendo y proyectos en los que estoy trabajando
+### Here you can find all the code I've been learning and projects I'm working on.
 
-### Mis Repositorios
+### My Repositories
 
-- [VulpesCRM](https://github.com/pcanadas/VulpesCRM.git) Open Source CRM para gestión y seguimiento de las ofertas en el marco empresarial <br>
+- [VulpesCRM](https://github.com/pcanadas/VulpesCRM.git) Open Source CRM for managing and tracking offers in the business environment <br>
+- [GestorNet](https://github.com/pcanadas/gestornet.git) Python web application designed for a computer supplies company <br>
 - [Productos](https://github.com/pcanadas/productos.git) Desktop app for product management <br>
 - [Tareas](https://github.com/pcanadas/tareas.git) Task Management App <br>
-- [Little Codes](https://github.com/pcanadas/little_codes.git) Este es mi repositorio para pequeños códigos de aprendizaje
+- [Little Codes](https://github.com/pcanadas/little_codes.git) This is my repository for small learning codes
 
-### Mis estadísticas en Github
+### My Github Stats
 [![Patricia's github stats](https://github-readme-stats.vercel.app/api?username=pcanadas&show_icons=true&theme=darcula)](https://github.com/pcanadas/github-readme-stats)
 
 
