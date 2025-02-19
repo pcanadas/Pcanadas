@@ -7,7 +7,6 @@ I am passionate about technology :computer:, reading :book: and ancient history 
 - 👯 I’m excited to contribute to your project!
 - 📫 How to reach me:
     - [Linkedin](https://www.linkedin.com/in/patricia-canadas)
-    - Email: pcanadas15@gmail.com
   
 ### About Me
 I am a Python developer with over 20 years of experience in web development, data analysis, and project management. I am particularly interested in building scalable applications for the business environment.
@@ -48,5 +47,6 @@ Feel free to fork or contribute to my projects!
 ![pcanadas's Stats](https://github-readme-stats.vercel.app/api?username=pcanadas&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![pcanadas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pcanadas&theme=vue-dark&hide_border=true)
+[![pcanadas's Streak](https://github-readme-streak-stats.herokuapp.com?user=pcanadas&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
 ![pcanadas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pcanadas&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
