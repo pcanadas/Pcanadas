@@ -45,4 +45,4 @@ Feel free to fork or contribute to my projects!
 
 ### My Github Stats
 
-|  ![pcanadas's Stats](https://github-readme-stats.vercel.app/api?username=pcanadas&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | ![pcanadas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pcanadas&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) |
+![pcanadas's Stats](https://github-readme-stats.vercel.app/api?username=pcanadas&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)      ![pcanadas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pcanadas&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) 
