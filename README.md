@@ -2,14 +2,28 @@
 
 I am passionate about technology :computer:, reading :book: and ancient history :european_castle:
 
-- 🔭 I’m currently working on personal proyects
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on open source #Python projects
+- 🔭 I’m currently working on personal proyects. My work involves developing web applications, automating tasks, and improving data management.
+- 🌱 I’m looking to collaborate on open-source #Python projects
+- 👯 I’m excited to contribute to your project!
 - 📫 How to reach me:
     - [Linkedin](https://www.linkedin.com/in/patricia-canadas)
+    - Email: pcanadas15@gmail.com
   
+### About Me
+I am a Python developer with over 20 years of experience in web development, data analysis, and project management. I am particularly interested in building scalable applications for the business environment.
 
-### Here you can find all the code I've been learning and projects I'm working on.
+### Skills & Technologies
+- **Python**: Flask, Django, SQLAlchemy, Pandas, NumPy
+- **Web Development**: HTML, CSS, JavaScript
+- **Databases**: PostgreSQL, MySQL
+- **Tools**: Git
+
+### Personal Projects
+I am currently working on several personal projects to enhance my skills and contribute to the Python community. These projects include:
+- **VulpesCRM**: An open-source CRM for managing business offers.
+- **GestorNet**: A Python web application for a computer supplies company.
+- **Productos**: A desktop app for product management.
+- **Tareas**: A task management app.
 
 ### My Repositories
 
@@ -22,19 +36,10 @@ I am passionate about technology :computer:, reading :book: and ancient history 
 ### My Github Stats
 [![Patricia's github stats](https://github-readme-stats.vercel.app/api?username=pcanadas&show_icons=true&theme=darcula)](https://github.com/pcanadas/github-readme-stats)
 
+### Certifications & Courses
+- Google Analytics Individual Qualification
+- Learn Python 3 Course from Codecademy
+- Computing in Python II: Control Structures from edX
+- Computing in Python I: Fundamentals and Procedural Programming. edX
 
-
-<!--
-**pcanadas/pcanadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to fork or contribute to my projects!
