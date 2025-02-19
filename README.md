@@ -44,20 +44,5 @@ I have developed several open-source projects that focus on specific areas of in
 Feel free to fork or contribute to my projects!
 
 ### My Github Stats
-![pcanadas's Stats](https://github-readme-stats.vercel.app/api?username=pcanadas&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![pcanadas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pcanadas&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-<style>
-  .stats-languages-container {
-    display: flex;
-    gap: 20px; /* Espacio entre las imágenes */
-  }
-</style>
-
-<div class="stats-languages-container">
-  ![pcanadas's Stats](https://github-readme-stats.vercel.app/api?username=pcanadas&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  
-  ![pcanadas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pcanadas&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-</div>
-
+|  ![pcanadas's Stats](https://github-readme-stats.vercel.app/api?username=pcanadas&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | ![pcanadas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pcanadas&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) |
