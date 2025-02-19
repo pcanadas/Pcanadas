@@ -32,13 +32,21 @@ I have developed several open-source projects that focus on specific areas of in
 - [northwind_mysql_analysis](https://github.com/pcanadas/northwind_mysql_analysis): Este repositorio contiene consultas avanzadas en MySQL usando la base de datos Northwind.
 - [InmoScraper](https://github.com/pcanadas/InmoScraper): Este proyecto proporciona un scraper automatizado para extraer información detallada de anuncios inmobiliarios desde sitios web
 
-### My Github Stats
-[![Patricia's github stats](https://github-readme-stats.vercel.app/api?username=pcanadas&show_icons=true&theme=darcula)](https://github.com/pcanadas/github-readme-stats)
-
 ### Certifications & Courses
+- Programador Python from Tokio School
+- Web Development with Python from IBM
+- IBM Verified Certificate for Developing Generative AI Applications with Python from IBM
+- Data Analysis with Python from IBM
 - Google Analytics Individual Qualification
 - Learn Python 3 Course from Codecademy
 - Computing in Python II: Control Structures from edX
 - Computing in Python I: Fundamentals and Procedural Programming. edX
 
 Feel free to fork or contribute to my projects!
+
+### My Github Stats
+![pcanadas's Stats](https://github-readme-stats.vercel.app/api?username=pcanadas&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![pcanadas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pcanadas&theme=vue-dark&hide_border=true)
+
+![pcanadas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pcanadas&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
